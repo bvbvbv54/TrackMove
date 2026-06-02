@@ -2,7 +2,7 @@
 
 A compact, PCB-integrated autonomous line-following robot built on the Arduino Nano platform. This project demonstrates embedded systems design encompassing custom PCB development, sensor integration, motor control, and real-time firmware development.
 
-![PCB Layout](images/pcb/pcb-layout.png)
+![PCB Layout](images/pcb/pcb-overview.png)
 
 ---
 
